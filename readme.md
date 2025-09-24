@@ -1,7 +1,7 @@
 
 # Cancer Prediction WebApp
 
-Developed a Cancer Prediction Web Application using Logistic Regression and Streamlit where users input features and get predictions in real-time.
+Developed a Cancer Prediction Web Application using Logistic Regression and Streamlit where users input features and get predictions in real-time. And this webapp is hosted with streamlit, you can checkout the link given in this repos description to view this webapp in real time.
 
 
 
